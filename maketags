@@ -1,0 +1,3 @@
+tags:
+  find . -name '*.cpp' -exec etags -a {} \;
+  find . -name '*.hpp' -exec etags -a {} \;
