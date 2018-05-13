@@ -11,7 +11,7 @@ iPath = include
 
 #---[Compiler and Settings]-----
 compiler = g++
-compilerFlags = -std=c++11
+compilerFlags = -std=c++11 -O3
 paths = -I./$(iPath)
 #======================
 
